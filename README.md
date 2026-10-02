@@ -19,6 +19,13 @@ SQL queries were used to:
 - Compare advertising costs and returns.
 - Identify campaigns with high advertising spend and evaluate their ROMI.
 
+- ## Key Analysis Outcomes
+- Combined Google Ads and Facebook Ads data into a unified dataset using UNION ALL.
+- Cleaned missing advertising metrics using COALESCE to ensure consistent calculations.
+- Extracted and standardized UTM campaign parameters for campaign-level analysis.
+- Aggregated advertising performance by date and campaign.
+- Calculated CTR, CPC, CPM, and ROMI to evaluate campaign efficiency and return on marketing investment.
+
 ## Tools & Skills
 - SQL
 - CTE
